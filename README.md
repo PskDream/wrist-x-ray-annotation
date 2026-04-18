@@ -115,7 +115,7 @@ Always click in this order:
 Annotate all ~231 images using `annotate.py`.
 
 ### Phase 2 — Train YOLO-pose
-- Model: YOLOv8-pose (Ultralytics)
+- Model: YOLO26-pose (Ultralytics)
 - Augmentation: HorizontalFlip, BrightnessContrast, GaussianNoise
 - Split: 80% train / 20% val
 
